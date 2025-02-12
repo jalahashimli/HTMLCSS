@@ -3,6 +3,7 @@
   margin: 0;
   padding: 0;
 }
+
 /* PAGE SECTIONS */
 body {
   color: #444;
@@ -16,7 +17,6 @@ body {
   /* margin-left: auto;
   margin-right: auto; */
   margin: 0 auto;
-  /* position: relative; */
 }
 
 .main-header {
@@ -26,12 +26,12 @@ body {
   padding-right: 40px; */
   padding: 20px 40px;
   margin-bottom: 60px;
-  height: 80px;
+  /* height: 80px; */
 }
 
 nav {
   font-size: 18px;
-  text-align: center;
+  /* text-align: center; */
 }
 
 article {
@@ -135,8 +135,17 @@ li:last-child {
   list-style: none;
 }
 
-/* body {
-  background-color: orangered;
+body {
+
+  /* background-color: orangered; */
+
+}
+
+
+/* .first-li {
+
+  font-weight: bold;
+
 } */
 
 li:first-child {
@@ -151,7 +160,7 @@ li:nth-child(even) {
   /* color: red; */
 }
 
-/* Misconception: this won't work */
+/* Misconception: this won't work! */
 article p:first-child {
   color: red;
 }
@@ -212,7 +221,7 @@ button {
 
 h1::first-letter {
   font-style: normal;
-  margin-right: 50px;
+  margin-right: 5px;
 }
 
 h3 + p::first-line {
@@ -253,6 +262,7 @@ footer p {
   color: green !important;
 } */
 
-/* nav a:link, nav p {
+/* nav a:link,
+nav p {
   font-size: 18px;
 } */
