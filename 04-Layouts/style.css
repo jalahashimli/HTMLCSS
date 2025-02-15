@@ -27,6 +27,7 @@ body {
   padding: 20px 40px;
   margin-bottom: 60px;
   /* height: 80px; */
+  /* display: flow-root; */
 }
 
 nav {
@@ -212,7 +213,7 @@ button {
 
 h1::first-letter {
   font-style: normal;
-  margin-right: 50px;
+  margin-right: 5px;
 }
 
 h3 + p::first-line {
@@ -275,4 +276,14 @@ h1 {
 
 nav {
   float: right;
+}
+
+/* .clear {
+  clear: both;
+} */
+
+.clearfix::after {
+  clear: both;
+  content: "";
+  display: block;
 }

@@ -212,7 +212,7 @@ button {
 
 h1::first-letter {
   font-style: normal;
-  margin-right: 50px;
+  margin-right: 5px;
 }
 
 h3 + p::first-line {
