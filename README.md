@@ -21,9 +21,11 @@ This repository tracks my progress in learning **HTML & CSS** through Udemy. I a
 - Explore CSS frameworks like Bootstrap & Tailwind  
 - Build more real-world projects  
 
+---
 
 
 📌 **Why am I learning HTML & CSS?**  
 As a QA Engineer transitioning into **Front-End Development**, I want to strengthen my web development skills and create responsive, visually appealing applications. This journey will help me move forward in my career and build a strong portfolio.  
+
 
 📅 **Follow my progress on GitHub!** 
