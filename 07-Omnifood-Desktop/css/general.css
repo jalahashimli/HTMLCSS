@@ -23,13 +23,9 @@ Paragraph default: 1.6
 --- 02 COLORS
 
 - Primary: #e67e22 
-<<<<<<< HEAD
 - Tints: 
 #fdf2e9
 #fae5d3
-=======
-- Tints: #fdf2e9
->>>>>>> 4a8ff51ef62c109ceb17eef74b54d954170db582
 - Shades: #cf711f  
 - Accents:
 - Greys:
@@ -81,13 +77,8 @@ body {
 
 .grid {
   display: grid;
-<<<<<<< HEAD
   column-gap: 6.4rem;
   row-gap: 9.6rem;
-=======
-  row-gap: 9.6rem;
-  column-gap: 6.4rem;
->>>>>>> 4a8ff51ef62c109ceb17eef74b54d954170db582
 }
 
 .grid--2-cols {
@@ -132,10 +123,7 @@ body {
   font-size: 3rem;
   line-height: 1.2;
   margin-bottom: 3.2rem;
-<<<<<<< HEAD
   
-=======
->>>>>>> 4a8ff51ef62c109ceb17eef74b54d954170db582
 }
 
 .subheading {
@@ -191,8 +179,4 @@ body {
 
 .margin-right-sm {
   margin-right: 1.6rem !important;
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 4a8ff51ef62c109ceb17eef74b54d954170db582
