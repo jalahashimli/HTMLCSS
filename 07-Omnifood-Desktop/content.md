@@ -130,6 +130,7 @@ Privacy & terms
 ######
 
 ## Sections
+
 - Logo + Navigation
 - Hero
 - Featured in
@@ -138,4 +139,4 @@ Privacy & terms
 - Testimonials + gallery
 - Pricing + features
 - CTA
-- Footer 
+- Footer
